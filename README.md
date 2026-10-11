@@ -14,12 +14,12 @@ A low-poly crossing game for **PC and Android**, set on Avenida Brasil, Rio de J
 
 ### Tools
 
-![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat)
 
 ### What I do
 
