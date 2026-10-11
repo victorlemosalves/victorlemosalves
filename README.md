@@ -4,6 +4,8 @@ Indie game developer from Rio de Janeiro, Brazil. I build games in **Unity and C
 
 ### Currently building: Avenida Brasil
 
+[![Avenida Brasil](https://raw.githubusercontent.com/victorlemosalves/avenida-brasil-portfolio/main/Midia/capa.jpg)](https://github.com/victorlemosalves/avenida-brasil-portfolio)
+
 A low-poly crossing game for **PC and Android**, set on Avenida Brasil, Rio de Janeiro. A hard-working chicken crosses 18 stations, from Terminal Deodoro to Terminal Gentileza, dodging trains, BRT buses, rush-hour traffic and the Piscinão de Ramos, and then has to get back home. *In development.*
 
 - Grid-based movement with keyboard, gamepad and touch controls
@@ -11,6 +13,8 @@ A low-poly crossing game for **PC and Android**, set on Avenida Brasil, Rio de J
 - Object pooling, event-driven systems and isolated, testable game rules
 - Around 280 automated checks running in Play Mode
 - Python pipelines for Blender models and for assembling trailers and short videos
+
+**Code showcase:** [avenida-brasil-portfolio](https://github.com/victorlemosalves/avenida-brasil-portfolio)
 
 ### Tools
 
